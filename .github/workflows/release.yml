@@ -1,0 +1,17 @@
+name: Publish Windows release
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish executable
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          gh release create "$TAG" PlatiPosle.exe --verify-tag --title "PlatiPosle $TAG" --notes "Windows x64. SHA-256: $(sha256sum PlatiPosle.exe | cut -d ' ' -f 1)" --latest
