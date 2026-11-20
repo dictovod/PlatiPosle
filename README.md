@@ -2,7 +2,7 @@
 
 ПлатиПосле помогает пользоваться нейросетями и разбирать сайты. На сайте работают кабинет, чат и аудит. Помощник для Windows упрощает установку Cline.
 
-**[Скачать PlatiPosle.exe для Windows x64](https://github.com/dictovod/PlatiPosle/raw/v0.1.0/PlatiPosle.exe)** · **[Открыть ПлатиПосле](https://platiposle.ru/)** · **[Личный кабинет](https://platiposle.ru/ai/cabinet/)**
+**[Скачать PlatiPosle.exe для Windows x64](https://github.com/dictovod/PlatiPosle/releases/download/v0.1.0/PlatiPosle.exe)** · **[Открыть ПлатиПосле](https://platiposle.ru/)** · **[Личный кабинет](https://platiposle.ru/ai/cabinet/)**
 
 ## Помощник для Windows
 
