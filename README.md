@@ -2,7 +2,7 @@
 
 ПлатиПосле помогает пользоваться нейросетями и разбирать сайты. На сайте работают кабинет, чат и аудит. Помощник для Windows упрощает установку Cline.
 
-**[Скачать PlatiPosle.exe для Windows x64](https://github.com/dictovod/PlatiPosle/releases/download/v0.1.0/PlatiPosle.exe)** · **[Открыть ПлатиПосле](https://platiposle.ru/)** · **[Личный кабинет](https://platiposle.ru/ai/cabinet/)**
+**[Скачать PlatiPosle.exe для Windows x64](https://raw.githubusercontent.com/dictovod/PlatiPosle/v0.1.1/PlatiPosle.exe)** · **[Открыть ПлатиПосле](https://platiposle.ru/)** · **[Личный кабинет](https://platiposle.ru/ai/cabinet/)**
 
 ## Помощник для Windows
 
@@ -38,3 +38,9 @@ EC20E47EA43BE4FE636557F87FE88C8A8F90F6ABCECB2C6D6E391A36C585D578
 [Сообщить о проблеме](https://github.com/dictovod/PlatiPosle/issues/new). Укажите версию Windows или браузера, шаг и текст ошибки. Перед загрузкой скриншота скройте API-ключ и личные данные.
 
 Здесь публикуются готовые сборки и инструкции. Исходные коды проекта не публикуются.
+
+### Версия 0.1.1
+
+Помощник открывается как плавающая голова робота. Перетащите её в удобное место. Нажмите, чтобы открыть или свернуть настройки Cline.
+
+SHA-256: $hash
